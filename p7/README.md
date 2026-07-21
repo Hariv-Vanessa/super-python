@@ -1,0 +1,1 @@
+# Abstract factories, extra capabilities and strategy patterns
